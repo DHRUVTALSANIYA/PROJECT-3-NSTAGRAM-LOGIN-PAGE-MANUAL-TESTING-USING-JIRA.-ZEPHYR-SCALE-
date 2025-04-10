@@ -25,6 +25,7 @@ This project involves manual testing of the Instagram login functionality. The g
 - **Test Execution Overview**
 - **Test Execution Detailed Result**
 - **Test Execution Score by Cycle**
+- **Covrage Report**
 
 ## 🧑‍💻 Executed By
 **Dhruv Talsaniya** (Manual QA Tester)
